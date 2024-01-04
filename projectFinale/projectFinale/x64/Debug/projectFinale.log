@@ -1,0 +1,11 @@
+﻿  gameFinale.cpp
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(48,8): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(786,24): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(840,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(1068,22): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(2176,19): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(3043,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(3044,13): warning C4129: ';': unrecognized character escape sequence
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(3221,20): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\hp\source\repos\projectFinale\projectFinale\gameFinale.cpp(3382,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  projectFinale.vcxproj -> C:\Users\hp\source\repos\projectFinale\x64\Debug\projectFinale.exe
